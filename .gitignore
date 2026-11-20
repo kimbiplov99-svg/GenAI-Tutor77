@@ -1,0 +1,9 @@
+venv/
+darkweb/
+**/__pycache__/
+*.py[cod]
+*.class
+.env
+.vscode/
+.idea/
+*.log
