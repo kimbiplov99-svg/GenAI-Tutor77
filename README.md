@@ -1,1 +1,3 @@
-This is AT-Tutor project
+# GenAI-Tutor77
+
+AI Tutor Project using FastAPI and Gemini.
